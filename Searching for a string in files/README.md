@@ -1,0 +1,1 @@
+The goal of the project was to enable the user to search for a string in files with the .txt extension. Additionally, the functionality to replace a string in the files with another (e.g., changing 'Pomidor' to 'Pomidor malinowy') was implemented.
